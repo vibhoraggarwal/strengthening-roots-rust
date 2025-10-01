@@ -2,7 +2,7 @@
 name: Introduction to rust
 about: This issue is to follow the introduction to rust program
 title:  <User name>, Introduction to rust checklist
-labels: 'rust', 'on-boarding'
+labels: 'rust, on-boarding'
 assignees: ''
 
 ---
